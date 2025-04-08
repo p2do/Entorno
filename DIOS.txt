@@ -4,6 +4,7 @@ Escribiendo desde la copia local
 
 Escribiendo desde el original
 
+<<<<<<< HEAD
 
 
 aa
@@ -13,3 +14,6 @@ a
 a
 
 
+=======
+Escribiendo desde el clone nuevo
+>>>>>>> fa8d9236d834532dc05415c0f4e1b447c9b16ff1
